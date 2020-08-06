@@ -5,3 +5,4 @@ local_settings.py
 logs
 media
 requirements/local.txt
+__pycache__
