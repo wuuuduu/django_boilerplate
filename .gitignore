@@ -1,0 +1,7 @@
+*.sqlite3
+.idea
+local_settings.py
+.env
+logs
+media
+requirements/local.txt
