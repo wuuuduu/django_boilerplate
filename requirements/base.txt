@@ -3,7 +3,7 @@ raven==6.10.0
 ipython==7.17.0
 djangorestframework==3.11.1
 django-filter==2.3.0
-djangocors-headers==3.4.0
+django-cors-headers==3.4.0
 python-dotenv==0.14.0
 python-memcached==1.59
 mysqlclient==2.0.1
